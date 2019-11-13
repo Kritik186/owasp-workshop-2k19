@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("mandir wahin bnega");
+printf("mitroon");
 return 0;
 }
