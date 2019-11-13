@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("mitroon");
+printf("kritik is new branch");
 return 0;
 }
